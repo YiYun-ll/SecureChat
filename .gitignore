@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.pyc
+server_data/
+client_data/
+*.sqlite
+.superpowers/
+.venv/
+venv/
+AGENTS.md
+.env
